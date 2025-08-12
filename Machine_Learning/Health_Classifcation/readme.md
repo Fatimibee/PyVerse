@@ -37,7 +37,7 @@ We build an **ML pipeline** that includes preprocessing, data balancing, and mod
 6. **Model Evaluation**
    - Performed **5-Fold Cross-Validation** for reliable performance estimation.
    - Calculated mean accuracy across folds.
-   - Generated Confusion Matrix and Classifiaction report
+   - Generated Confusion Matrix and Classification report
 7. **Final Prediction**
    - Trained the best model on the full training data and generated predictions on `X_test`.
 
